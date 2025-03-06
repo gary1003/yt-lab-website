@@ -1,81 +1,32 @@
 ---
+title: Welcome to YT Lab
+description: Official Website of Prof. Yu-Ting Hsu's Lab
+keywords: Yu-Ting Hsu, NTU, NTUCE, National Taiwan University, Civil Engineering, Transportation Engineering
+layout: homelay
+permalink: /
 ---
 
-# gary1003's Website
+*YT Lab creates knowledge and methods to improve our experience in the transportation system. Our research focuses on the following aspects:*
 
-An engaging 1-3 sentence description of your lab.
-
-{% include section.html %}
-
-## Highlights
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+<ul>
+  <li>
+    <a href="/traveler-behavior">Traveler Behavior</a>
+    <p>We apply advanced data analytics and behavioral psychology principles to understand how individuals make travel decisions, allowing us to design more efficient and user-centric transportation solutions.</p>
+  </li>
+  <li>
+    <a href="/resilience">Resilience of Transportation Network</a>
+    <p>We propose robust modeling frameworks and innovative infrastructure designs to enhance the resilience of transportation networks against various disruptions, ensuring continued functionality and accessibility in the face of challenges.</p>
+  </li>
+  <li>
+    <a href="/land-use">Transportation and Land Use</a>
+    <p>We value the intricate relationship between transportation systems and urban development, aiming to foster sustainable and livable communities through integrated planning approaches that prioritize accessibility, equity, and environmental sustainability.</p>
+  </li>
+  <li>
+    <a href="/optimization">Optimizing Transportation System</a>
+    <p>We develop cutting-edge optimization algorithms and simulation tools to maximize the efficiency, reliability, and affordability of transportation systems, enabling smoother mobility experiences for both passengers and freight.</p>
+  </li>
+  <li>
+    <a href="/disaster">Disaster Response</a>
+    <p>We devise proactive strategies and technologies to improve emergency response and recovery efforts in the transportation sector, ensuring swift and coordinated actions to mitigate the impacts of disasters and facilitate rapid restoration of critical transportation infrastructure.</p>
+  </li>
+</ul>
