@@ -5,6 +5,6 @@
 
   # gary1003's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[gary1003.github.io/yt-lab-website](https://gary1003.github.io/yt-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
